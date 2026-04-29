@@ -1,0 +1,8 @@
+{
+  "extends": "./tsconfig.json",
+  "compilerOptions": {
+    // Allow unused variables in test files for flexible test fixtures
+    "noUnusedLocals": false,
+    "noUnusedParameters": false
+  }
+}
